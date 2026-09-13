@@ -1,6 +1,6 @@
-# Castra — Camping Discovery Community
+# CampSpot — Camping Discovery Community
 
-Castra is a web app for outdoor enthusiasts: browse campgrounds on a map, add your own with photos, and leave reviews for the community.
+CampSpot is a web app for outdoor enthusiasts: browse campgrounds on a map, add your own with photos, and leave reviews for the community.
 
 ## Features
 
@@ -18,8 +18,8 @@ Node.js · Express · MongoDB / Mongoose · EJS (ejs-mate) · Passport · Cloudi
 ## Run locally
 
 ```bash
-git clone https://github.com/Ahmed-Abdelhafez98/Castra.git
-cd Castra
+git clone https://github.com/Ahmed-Abdelhafez98/CampSpot.git
+cd CampSpot
 npm install
 ```
 
